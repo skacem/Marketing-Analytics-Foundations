@@ -1,0 +1,7 @@
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.4
+pandasql==0.7.3
+patsy==0.5.1
+squarify==0.4.3
+statsmodels==0.12.2
